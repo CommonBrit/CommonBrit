@@ -1,7 +1,17 @@
-- 👋 Hello, I'm CommonBrit!
-- 📊 Data Analyst | 🐍 Python Enthusiast
-- 🌟 Passionate about transforming data into actionable insights. 
-- 🌱 Currently honing my Python skills to supercharge my data analysis journey.
+👋 Hello, I'm Matt!
+
+📊 Data Analyst | ⚙️ IT Systems
+
+I work across data analysis, reporting and IT systems, with a focus on improving processes.
+
+My projects typically involve:
+
+📈 Reporting & dashboards
+⚙️ Process automation
+🐍 Python scripting
+☁️ Microsoft 365 administration
+
+Currently studying BSc (Hons) Computing & ICT while continuing to expand my technical and analytical skillset.
 
 <!---
 CommonBrit/CommonBrit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
